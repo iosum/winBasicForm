@@ -1,0 +1,7 @@
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsBasic\bin\Debug\WinFormsBasic.exe.config
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsBasic\bin\Debug\WinFormsBasic.exe
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsBasic\bin\Debug\WinFormsBasic.pdb
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsBasic\obj\Debug\WinFormsBasic.csprojAssemblyReference.cache
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsBasic\obj\Debug\WinFormsBasic.csproj.CoreCompileInputs.cache
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsBasic\obj\Debug\WinFormsBasic.exe
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsBasic\obj\Debug\WinFormsBasic.pdb
