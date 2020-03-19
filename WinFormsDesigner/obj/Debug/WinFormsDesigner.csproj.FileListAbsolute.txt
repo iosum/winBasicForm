@@ -1,0 +1,10 @@
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsDesigner\bin\Debug\WinFormsDesigner.exe.config
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsDesigner\bin\Debug\WinFormsDesigner.exe
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsDesigner\bin\Debug\WinFormsDesigner.pdb
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsDesigner\obj\Debug\WinFormsDesigner.csprojAssemblyReference.cache
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsDesigner\obj\Debug\WinFormsDesigner.MyForm.resources
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsDesigner\obj\Debug\WinFormsDesigner.Properties.Resources.resources
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsDesigner\obj\Debug\WinFormsDesigner.csproj.GenerateResource.cache
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsDesigner\obj\Debug\WinFormsDesigner.csproj.CoreCompileInputs.cache
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsDesigner\obj\Debug\WinFormsDesigner.exe
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsDesigner\obj\Debug\WinFormsDesigner.pdb
