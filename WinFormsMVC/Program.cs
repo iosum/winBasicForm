@@ -16,7 +16,24 @@ namespace WinFormsMVC
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+
+            // instantiate a new userinfo model in controller
+            UserInfo info = new UserInfo();
+
+            // instantiate form1
+            var form1 = new FirstForm();
+            // controller interact w/ model
+            // form1 can getUserInfo or setUserInfo
+            form1.UserInfo = info;
+            // controller interact w/ view
+            form1.ShowDialog();
+
+            var form2 = new Form2();
+            form2.UserInfo = info;
+            form2.ShowDialog();
+
+
+            Application.Run(new FirstForm());
         }
     }
 }
