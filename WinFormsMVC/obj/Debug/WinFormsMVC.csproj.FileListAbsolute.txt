@@ -1,0 +1,11 @@
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsMVC\bin\Debug\WinFormsMVC.exe.config
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsMVC\bin\Debug\WinFormsMVC.exe
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsMVC\bin\Debug\WinFormsMVC.pdb
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsMVC\obj\Debug\WinFormsMVC.csprojAssemblyReference.cache
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsMVC\obj\Debug\WinFormsMVC.Properties.Resources.resources
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsMVC\obj\Debug\WinFormsMVC.FirstForm.resources
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsMVC\obj\Debug\WinFormsMVC.View.SecondForm.resources
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsMVC\obj\Debug\WinFormsMVC.csproj.GenerateResource.cache
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsMVC\obj\Debug\WinFormsMVC.csproj.CoreCompileInputs.cache
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsMVC\obj\Debug\WinFormsMVC.exe
+D:\Georgian\c#\2017-code\WinFormsBasic\WinFormsMVC\obj\Debug\WinFormsMVC.pdb

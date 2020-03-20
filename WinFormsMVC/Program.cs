@@ -28,7 +28,7 @@ namespace WinFormsMVC
             // controller interact w/ view
             form1.ShowDialog();
 
-            var form2 = new Form2();
+            var form2 = new View.SecondForm();
             form2.UserInfo = info;
             form2.ShowDialog();
 
